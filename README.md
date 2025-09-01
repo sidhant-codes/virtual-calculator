@@ -13,9 +13,7 @@ It includes:
 
 ## 🌐 Live Demo
 
-👉 [View Live Site](https://your-github-username.github.io/Calculator/)  
-
-*(Replace the link with your actual GitHub Pages deployment)*
+👉 [View Live Site](https://sidhant-codes.github.io/virtual-calculator/) 
 
 ## 🎯 Features
 
@@ -45,12 +43,10 @@ It includes:
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="Media/vintage.png" width="70%" alt="Vintage Theme Screenshot" />
-  <img src="Media/futuristic.png" width="70%" alt="Futuristic Theme Screenshot" />
-  <img src="Media/basic.png" width="70%" alt="Basic Theme Screenshot" />
+  <img src="media/basic.png" width="70%" alt="Vintage Theme Screenshot" />
+  <img src="media/vintage.png" width="70%" alt="Futuristic Theme Screenshot" />
+  <img src="media/futuristic.png" width="70%" alt="Basic Theme Screenshot" />
 </div>
-
-*(Add your actual screenshots in a `Media/` folder and update file names accordingly)*
 
 ## 📜 License
 
