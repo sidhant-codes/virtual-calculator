@@ -43,9 +43,9 @@ It includes:
 ## 🖼️ Screenshots
 
 <div align="center">
-  <img src="media/basic.png" width="70%" alt="Vintage Theme Screenshot" />
-  <img src="media/vintage.png" width="70%" alt="Futuristic Theme Screenshot" />
-  <img src="media/futuristic.png" width="70%" alt="Basic Theme Screenshot" />
+  <img src="basic.png" width="70%" alt="Vintage Theme Screenshot" />
+  <img src="vintage.png" width="70%" alt="Futuristic Theme Screenshot" />
+  <img src="futuristic.png" width="70%" alt="Basic Theme Screenshot" />
 </div>
 
 ## 📜 License
